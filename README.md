@@ -1,7 +1,8 @@
 # 💻 Pos-install do Arch Linux.
 
-![Logo](Imgs/Arch%Linux)
-
+<p align = "center">
+    <img src="https://github.com/DarlysonGabriel/archlinux-pos-install/blob/main/Imgs/Arch%20Linux%20logo/ca1e3cbffbdb38fad2f932b9b83827a8.jpg" alt="Logo" width="100">
+</p>
 Sabemos que, nos dias de hoje, o Linux (de forma geral) vem sendo uma alternativa boa oara usuários de Windows.
 
 Para intusiastas da tecnologia (como programadores) um nom sistema que agrade e, ao mesmo tempo, seja útil e eficaz, acaba sendo um recurso essencial para aesse publico.
@@ -61,6 +62,12 @@ Abaixo estão algumas das interfaces gráficas e gerenciadores de janelas mais p
 ### 3. A instalação: o Arch Lumix não é como outras distribuições
 
 Diferente da maioria das distribuições Linux, o **Arch Lumix** não possui um instalador gráfico tradicional. Em vez disso, a instalação é realizada principalmente pelo terminal, permitindo que o usuário tenha controle total sobre o sistema.
+
+<p align="center">
+  <img src="https://www.edivaldobrito.com.br/wp-content/uploads/2023/12/arch-linux-2023-12-01-lancado-com-o-archinstall-2-7-e-kernel-6-6-1024x585.webp" width="700">
+  <br>
+  <em>Tela do instalador Arch Linux.</em>
+</p>
 
 Durante o processo, você escolherá quais componentes serão instalados, como:
 - Kernel do Linux;
@@ -492,5 +499,7 @@ reboot
 # Uma dica
 
 Baixe a ferramenta `Linux Toys` para baixar outras configurações adicionais, como aplicativos, IDE's, etc…
+
+  <img src="https://linux.toys/elements/linuxtoys.webp" width="70">
 
 > **✅ Pronto!** Com esses componentes instalados e habilitados, o Arch Linux estará preparado para funcionar corretamente e você poderá prosseguir com a personalização e instalação dos seus programas.
