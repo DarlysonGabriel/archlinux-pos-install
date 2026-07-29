@@ -503,3 +503,5 @@ Baixe a ferramenta `Linux Toys` para baixar outras configurações adicionais, c
   <img src="https://linux.toys/elements/linuxtoys.webp" width="70">
 
 > **✅ Pronto!** Com esses componentes instalados e habilitados, o Arch Linux estará preparado para funcionar corretamente e você poderá prosseguir com a personalização e instalação dos seus programas.
+
+>  **❗️ Atenção** Este repositório abrange apenas um pouco do assunto. Caso queira saber mais sobre, é recomendável pesquisar em outras plataformas/repositórios para saber mais.
